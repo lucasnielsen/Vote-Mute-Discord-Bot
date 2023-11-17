@@ -13,6 +13,6 @@ A simple open-source Discord bot where users can vote to have a player muted.
 - Install **Node.js**
 - Run `npm install discord.js`
 - Run `node bot.js` in bot directory
-- Create a (bot)[https://discord.com/developers/applications]
+- Create a [bot](https://discord.com/developers/applications)
 - Insert bot token when prompted
-- Create invite link and follow steps: https://discord.com/oauth2/authorize?client_id=`INSERT_CLIENT_ID_HERE`&scope=bot&permissions=1099511627775
+- Create invite link and follow steps: https://discord.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bot&permissions=1099511627775
