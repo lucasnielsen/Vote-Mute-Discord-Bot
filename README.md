@@ -8,6 +8,7 @@ A simple open-source Discord bot where users can vote to have a player muted.
 ## To do:
 - Make it so players are still muted if they leave and rejoin
 - Make bot owner commands for easier configurations
+- Organize code lol
 
 ## Setup:
 - Install **Node.js**
