@@ -49,16 +49,16 @@ loadConfigs();
 
 async function logErrorToDiscord(guildId, errorMessage, errorStack) {
     try {
-        const guild = await client.guilds.fetch('1172431958974935063');
+        /* const guild = await client.guilds.fetch(''); // Replace with your guildId, or not, idrc
         if (!guild) return;
 
-        const channel = await guild.channels.fetch('1175110532961927249');
+        const channel = await guild.channels.fetch(''); // Replace with your channelId
         if (!channel) return;
 
         const detailedMessage = `Guild ID: ${guildId}\nError: ${errorMessage}\nStack Trace:\n\`\`\`${errorStack}\`\`\``;
         await channel.send(detailedMessage);
     } catch (logError) {
-        console.error('Error logging to Discord:', logError);
+        console.error('Error logging to Discord:', logError); */ // You don't need this!
     }
 }
 
