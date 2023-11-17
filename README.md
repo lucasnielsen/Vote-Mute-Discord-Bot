@@ -16,3 +16,5 @@ A simple open-source Discord bot where users can vote to have a player muted.
 - Create a [bot](https://discord.com/developers/applications)
 - Insert bot token when prompted
 - Create invite link and follow steps: https://discord.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bot&permissions=1099511627775
+
+If you still can't figure out how to set up a Discord bot, search it up
